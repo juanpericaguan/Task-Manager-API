@@ -80,7 +80,7 @@ Authorization: Bearer <token>
 
 ⚙️ Instalación y ejecución
 1. Clonar el repositorio
-git clone <repo-url>
+git clone <https://github.com/juanpericaguan/Task-Manager-API>
 cd Task-Manager
 
 2. Crear entorno virtual
@@ -138,7 +138,7 @@ En /tasks/:
 
 status: pending | in_progress | completed
 
-priority: low | standar | high
+priority: low | standard | high
 
 limit: cantidad de resultados
 
@@ -193,7 +193,7 @@ http://localhost:8000/redoc
 
 
 
-👨‍💻 Autor
+👨‍💻 Autor Juan Pericaguan Correo: juanmiguel018@gmail.com
 
 Proyecto desarrollado como práctica avanzada de backend con enfoque profesional en arquitectura, seguridad y buenas prácticas.
 
